@@ -53,3 +53,5 @@ Os pontos de avalição são itens **obrigatórios** para entrega. Os aspectos a
 Faça o clone deste projeto e realize o push em um repositório privado no [Gitlab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) ou [Github](https://github.com/), e nos dê acesso para que o código seja verificado e também deverá constar no README todos os procedimentos realizados por você para o teste.
 
 Em caso de dúvidas, não hesite em entrar em contato conosco! :)
+
+------------------------------------------------
